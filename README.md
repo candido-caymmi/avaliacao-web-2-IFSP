@@ -5,7 +5,7 @@ Esta é uma aplicação CRUD simples para gerenciar informações de alunos.
 ## Como Executar
 ### 1. Clone o repositório
 ```bash
-git clone
+git clone https://github.com/candido-caymmi/avaliacao-web-2-IFSP.git
 ```
 ### 2. Instale as dependências
 ```bash
